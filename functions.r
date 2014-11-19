@@ -30,7 +30,7 @@ new.rank <- function(game, ranks) {
   
   # if the loser is higher ranked, split the difference between the teams' previous ranks
   # else do nothing and keep the existing ranks
-  if(select(filter(game, outcome=="winner"), rank) < select(filter(game, outcome=="loser"), rank)){
+  if(select(filter(game, outcome=="winner"), rank) > select(filter(game, outcome=="loser"), rank)){
     # calculate mean rank of two teams
     mean.rank <- as.numeric(summarize(filter(ranks, team_id %in% game$team_id),mean=mean(rank)))
     
