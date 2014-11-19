@@ -1,0 +1,129 @@
+school,nickname,city,state,conference
+Air Force,Falcons,Colorado Springs,Colorado,Mountain West
+Akron,Zips,Akron,Ohio,MAC
+Alabama,Crimson Tide,Tuscaloosa,Alabama,SEC
+Alabama-Birmingham,Blazers,Birmingham,Alabama,C-USA
+Appalachian State,Mountaineers,Boone,North Carolina,Sun Belt
+Arizona,Wildcats,Tucson,Arizona,Pac-12
+Arizona State,Sun Devils,Tempe,Arizona,Pac-12
+Arkansas,Razorbacks,Fayetteville,Arkansas,SEC
+Arkansas State,Red Wolves,Jonesboro,Arkansas,Sun Belt
+Army,Black Knights,West Point,New York,Independent
+Auburn,Tigers,Auburn,Alabama,SEC
+Ball State,Cardinals,Muncie,Indiana,MAC
+Baylor,Bears,Waco,Texas,Big 12
+Boise State,Broncos,Boise,Idaho,Mountain West
+Boston College,Eagles,Chestnut Hill,Massachusetts,ACC
+Bowling Green,Falcons,Bowling Green,Ohio,MAC
+Brigham Young,Cougars,Provo,Utah,Independent
+Buffalo,Bulls,Buffalo,New York,MAC
+California,Golden Bears,Berkeley,California,Pac-12
+Central Florida,Knights,Orlando,Florida,American
+Central Michigan,Chippewas,Mount Pleasant,Michigan,MAC
+Cincinnati,Bearcats,Cincinnati,Ohio,American
+Clemson,Tigers,Clemson,South Carolina,ACC
+Colorado,Buffaloes,Boulder,Colorado,Pac-12
+Colorado State,Rams,Fort Collins,Colorado,Mountain West
+Connecticut,Huskies,Storrs,Connecticut,American
+Duke,Blue Devils,Durham,North Carolina,ACC
+East Carolina,Pirates,Greenville,North Carolina,American
+Eastern Michigan,Eagles,Ypsilanti,Michigan,MAC
+Florida,Gators,Gainesville,Florida,SEC
+Florida Atlantic,Owls,Boca Raton,Florida,C-USA
+Florida International,Panthers,Miami,Florida,C-USA
+Florida State,Seminoles,Tallahassee,Florida,ACC
+Fresno State,Bulldogs,Fresno,California,Mountain West
+Georgia,Bulldogs,Athens,Georgia,SEC
+Georgia Southern,Eagles,Statesboro,Georgia,Sun Belt
+Georgia State,Panthers,Atlanta,Georgia,Sun Belt
+Georgia Tech,Yellow Jackets,Atlanta,Georgia,ACC
+Hawaii,Rainbow Warriors,Honolulu,Hawaii,Mountain West
+Houston,Cougars,Houston,Texas,American
+Idaho,Vandals,Moscow,Idaho,Sun Belt
+Illinois,Fighting Illini,Urbana-Champaign,Illinois,Big Ten
+Indiana,Hoosiers,Bloomington,Indiana,Big Ten
+Iowa,Hawkeyes,Iowa City,Iowa,Big Ten
+Iowa State,Cyclones,Ames,Iowa,Big 12
+Kansas,Jayhawks,Lawrence,Kansas,Big 12
+Kansas State,Wildcats,Manhattan,Kansas,Big 12
+Kent State,Golden Flashes,Kent,Ohio,MAC
+Kentucky,Wildcats,Lexington,Kentucky,SEC
+Louisiana State,Tigers,Baton Rouge,Louisiana,SEC
+Louisiana Tech,Bulldogs,Ruston,Louisiana,C-USA
+Louisiana-Lafayette,Ragin' Cajuns,Lafayette,Louisiana,Sun Belt
+Louisiana-Monroe,Warhawks,Monroe,Louisiana,Sun Belt
+Louisville,Cardinals,Louisville,Kentucky,ACC
+Marshall,Thundering Herd,Huntington,West Virginia,C-USA
+Maryland,Terrapins,College Park,Maryland,Big Ten
+Massachusetts,Minutemen,Amherst,Massachusetts,MAC
+Memphis,Tigers,Memphis,Tennessee,American
+Miami (FL),Hurricanes,Coral Gables,Florida,ACC
+Miami (OH),RedHawks,Oxford,Ohio,MAC
+Michigan,Wolverines,Ann Arbor,Michigan,Big Ten
+Michigan State,Spartans,East Lansing,Michigan,Big Ten
+Middle Tennessee,Blue Raiders,Murfreesboro,Tennessee,C-USA
+Minnesota,Golden Gophers,Minneapolis,Minnesota,Big Ten
+Mississippi,Rebels,Oxford,Mississippi,SEC
+Mississippi State,Bulldogs,Starkville,Mississippi,SEC
+Missouri,Tigers,Columbia,Missouri,SEC
+Navy,Midshipmen,Annapolis,Maryland,Independent
+Nebraska,Cornhuskers,Lincoln,Nebraska,Big Ten
+Nevada,Wolf Pack,Reno,Nevada,Mountain West
+"Nevada, Las Vegas",Rebels,Las Vegas,Nevada,Mountain West
+New Mexico,Lobos,Albuquerque,New Mexico,Mountain West
+New Mexico State,Aggies,Las Cruces,New Mexico,Sun Belt
+North Carolina,Tar Heels,Chapel Hill,North Carolina,ACC
+North Carolina State,Wolfpack,Raleigh,North Carolina,ACC
+North Texas,Mean Green,Denton,Texas,C-USA
+Northern Illinois,Huskies,DeKalb,Illinois,MAC
+Northwestern,Wildcats,Evanston,Illinois,Big Ten
+Notre Dame,Fighting Irish,South Bend,Indiana,Independent
+Ohio,Bobcats,Athens,Ohio,MAC
+Ohio State,Buckeyes,Columbus,Ohio,Big Ten
+Oklahoma,Sooners,Norman,Oklahoma,Big 12
+Oklahoma State,Cowboys,Stillwater,Oklahoma,Big 12
+Old Dominion,Monarchs,Norfolk,Virginia,C-USA
+Oregon,Ducks,Eugene,Oregon,Pac-12
+Oregon State,Beavers,Corvallis,Oregon,Pac-12
+Penn State,Nittany Lions,State College,Pennsylvania,Big Ten
+Pittsburgh,Panthers,Pittsburgh,Pennsylvania,ACC
+Purdue,Boilermakers,West Lafayette,Indiana,Big Ten
+Rice,Owls,Houston,Texas,C-USA
+Rutgers,Scarlet Knights,Piscataway,New Jersey,Big Ten
+San Diego State,Aztecs,San Diego,California,Mountain West
+San Jose State,Spartans,San Jose,California,Mountain West
+South Alabama,Jaguars,Mobile,Alabama,Sun Belt
+South Carolina,Gamecocks,Columbia,South Carolina,SEC
+South Florida,Bulls,Tampa,Florida,American
+Southern California,Trojans,Los Angeles,California,Pac-12
+Southern Methodist,Mustangs,University Park,Texas,American
+Southern Miss,Golden Eagles,Hattiesburg,Mississippi,C-USA
+Stanford,Cardinal,Stanford,California,Pac-12
+Syracuse,Orange,Syracuse,New York,ACC
+Temple,Owls,Philadelphia,Pennsylvania,American
+Tennessee,Volunteers,Knoxville,Tennessee,SEC
+Texas,Longhorns,Austin,Texas,Big 12
+Texas A&M,Aggies,College Station,Texas,SEC
+Texas Christian,Horned Frogs,Fort Worth,Texas,Big 12
+Texas State,Bobcats,San Marcos,Texas,Sun Belt
+Texas Tech,Red Raiders,Lubbock,Texas,Big 12
+Texas-El Paso,Miners,El Paso,Texas,C-USA
+Texas-San Antonio,Roadrunners,San Antonio,Texas,C-USA
+Toledo,Rockets,Toledo,Ohio,MAC
+Troy,Trojans,Troy,Alabama,Sun Belt
+Tulane,Green Wave,New Orleans,Louisiana,American
+Tulsa,Golden Hurricane,Tulsa,Oklahoma,American
+UCLA,Bruins,Los Angeles,California,Pac-12
+Utah,Utes,Salt Lake City,Utah,Pac-12
+Utah State,Aggies,Logan,Utah,Mountain West
+Vanderbilt,Commodores,Nashville,Tennessee,SEC
+Virginia,Cavaliers,Charlottesville,Virginia,ACC
+Virginia Tech,Hokies,Blacksburg,Virginia,ACC
+Wake Forest,Demon Deacons,Winston-Salem,North Carolina,ACC
+Washington,Huskies,Seattle,Washington,Pac-12
+Washington State,Cougars,Pullman,Washington,Pac-12
+West Virginia,Mountaineers,Morgantown,West Virginia,Big 12
+Western Kentucky,Hilltoppers,Bowling Green,Kentucky,C-USA
+Western Michigan,Broncos,Kalamazoo,Michigan,MAC
+Wisconsin,Badgers,Madison,Wisconsin,Big Ten
+Wyoming,Cowboys,Laramie,Wyoming,Mountain West

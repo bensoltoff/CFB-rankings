@@ -1,0 +1,1282 @@
+id,school,date,gamenum,location,opponent,outcome
+1,Air Force,11/15/2014,10,,Nevada,W
+2,Alabama,11/15/2014,10,,Mississippi State,W
+3,Appalachian State,11/15/2014,10,@,Arkansas State,W
+4,Arizona,11/15/2014,10,,Washington,W
+5,Arizona State,11/15/2014,10,@,Oregon State,L
+6,Arkansas,11/15/2014,10,,Louisiana State,W
+7,Arkansas State,11/15/2014,10,,Appalachian State,L
+8,Army,11/15/2014,10,@,Western Kentucky,L
+9,Auburn,11/15/2014,10,@,Georgia,L
+10,Boise State,11/15/2014,10,,San Diego State,W
+11,Brigham Young,11/15/2014,10,,Nevada-Las Vegas,W
+12,Central Michigan,11/15/2014,11,,Miami (OH),W
+13,Clemson,11/15/2014,10,@,Georgia Tech,L
+14,Duke,11/15/2014,10,,Virginia Tech,L
+15,Eastern Michigan,11/15/2014,10,@,Western Michigan,L
+16,Florida,11/15/2014,10,,South Carolina,L
+17,Florida International,11/15/2014,11,,Middle Tennessee State,W
+18,Florida State,11/15/2014,10,@,Miami (FL),W
+19,Georgia,11/15/2014,10,,Auburn,W
+20,Georgia Southern,11/15/2014,11,@,Navy,L
+21,Georgia Tech,11/15/2014,11,,Clemson,W
+22,Hawaii,11/15/2014,11,@,San Jose State,W
+23,Idaho,11/15/2014,11,,Troy,L
+24,Illinois,11/15/2014,10,,Iowa,L
+25,Indiana,11/15/2014,10,@,Rutgers,L
+26,Iowa,11/15/2014,10,@,Illinois,W
+27,Kansas,11/15/2014,10,,Texas Christian,L
+28,Kentucky,11/15/2014,11,@,Tennessee,L
+29,Louisiana State,11/15/2014,11,@,Arkansas,L
+30,Louisiana-Lafayette,11/15/2014,10,@,Louisiana-Monroe,W
+31,Louisiana-Monroe,11/15/2014,10,,Louisiana-Lafayette,L
+32,Marshall,11/15/2014,10,,Rice,W
+33,Maryland,11/15/2014,10,,Michigan State,L
+34,Memphis,11/15/2014,10,@,Tulane,W
+35,Miami (FL),11/15/2014,10,,Florida State,L
+36,Miami (OH),11/15/2014,11,@,Central Michigan,L
+37,Michigan State,11/15/2014,10,@,Maryland,W
+38,Middle Tennessee State,11/15/2014,10,@,Florida International,L
+39,Minnesota,11/15/2014,10,,Ohio State,L
+40,Mississippi State,11/15/2014,10,@,Alabama,L
+41,Missouri,11/15/2014,10,@,Texas A&M,W
+42,Navy,11/15/2014,10,,Georgia Southern,W
+43,Nebraska,11/15/2014,10,@,Wisconsin,L
+44,Nevada,11/15/2014,10,@,Air Force,L
+45,Nevada-Las Vegas,11/15/2014,11,@,Brigham Young,L
+46,New Mexico,11/15/2014,10,@,Utah State,L
+47,North Carolina,11/15/2014,10,,Pittsburgh,W
+48,North Carolina State,11/15/2014,11,,Wake Forest,W
+49,North Texas,11/15/2014,10,@,Texas-El Paso,L
+50,Northwestern,11/15/2014,10,@,Notre Dame,W
+51,Notre Dame,11/15/2014,10,,Northwestern,L
+52,Ohio State,11/15/2014,10,@,Minnesota,W
+53,Oklahoma,11/15/2014,10,@,Texas Tech,W
+54,Oklahoma State,11/15/2014,10,,Texas,L
+55,Oregon State,11/15/2014,10,,Arizona State,W
+56,Penn State,11/15/2014,10,,Temple,W
+57,Pittsburgh,11/15/2014,10,@,North Carolina,L
+58,Rice,11/15/2014,10,@,Marshall,L
+59,Rutgers,11/15/2014,10,,Indiana,W
+60,San Diego State,11/15/2014,10,@,Boise State,L
+61,San Jose State,11/15/2014,10,,Hawaii,L
+62,South Alabama,11/15/2014,10,,Texas State,W
+63,South Carolina,11/15/2014,10,@,Florida,W
+64,South Florida,11/15/2014,10,@,Southern Methodist,W
+65,Southern Methodist,11/15/2014,9,,South Florida,L
+66,Stanford,11/15/2014,10,,Utah,L
+67,Temple,11/15/2014,10,@,Penn State,L
+68,Tennessee,11/15/2014,10,,Kentucky,W
+69,Texas,11/15/2014,11,@,Oklahoma State,W
+70,Texas A&M,11/15/2014,11,,Missouri,L
+71,Texas Christian,11/15/2014,10,@,Kansas,W
+72,Texas State,11/15/2014,10,@,South Alabama,L
+73,Texas Tech,11/15/2014,10,,Oklahoma,L
+74,Texas-El Paso,11/15/2014,10,,North Texas,W
+75,Troy,11/15/2014,11,@,Idaho,W
+76,Tulane,11/15/2014,10,,Memphis,L
+77,Utah,11/15/2014,10,@,Stanford,W
+78,Utah State,11/15/2014,11,,New Mexico,W
+79,Virginia Tech,11/15/2014,10,@,Duke,W
+80,Wake Forest,11/15/2014,10,@,North Carolina State,L
+81,Washington,11/15/2014,11,@,Arizona,L
+82,Western Kentucky,11/15/2014,10,,Army,W
+83,Western Michigan,11/15/2014,10,,Eastern Michigan,W
+84,Wisconsin,11/15/2014,10,,Nebraska,W
+85,Central Florida,11/14/2014,9,,Tulsa,W
+86,Tulsa,11/14/2014,10,@,Central Florida,L
+87,California,11/13/2014,10,@,Southern California,L
+88,Cincinnati,11/13/2014,9,N,East Carolina,W
+89,East Carolina,11/13/2014,9,N,Cincinnati,L
+90,Southern California,11/13/2014,10,,California,W
+91,Southern Mississippi,11/13/2014,11,@,Texas-San Antonio,L
+92,Texas-San Antonio,11/13/2014,10,,Southern Mississippi,W
+93,Ball State,11/12/2014,10,@,Massachusetts,L
+94,Bowling Green State,11/12/2014,10,,Kent State,W
+95,Kent State,11/12/2014,10,@,Bowling Green State,L
+96,Massachusetts,11/12/2014,10,,Ball State,W
+97,Akron,11/11/2014,10,@,Buffalo,L
+98,Buffalo,11/11/2014,10,,Akron,W
+99,Northern Illinois,11/11/2014,10,,Toledo,W
+100,Toledo,11/11/2014,10,@,Northern Illinois,L
+101,Air Force,11/08/2014,9,@,Nevada-Las Vegas,W
+102,Alabama,11/08/2014,9,@,Louisiana State,W
+103,Alabama-Birmingham,11/08/2014,10,,Louisiana Tech,L
+104,Appalachian State,11/08/2014,9,,Louisiana-Monroe,W
+105,Arizona,11/08/2014,9,,Colorado,W
+106,Arizona State,11/08/2014,9,,Notre Dame,W
+107,Arkansas State,11/08/2014,9,,South Alabama,W
+108,Army,11/08/2014,9,N,Connecticut,W
+109,Auburn,11/08/2014,9,,Texas A&M,L
+110,Baylor,11/08/2014,9,@,Oklahoma,W
+111,Boise State,11/08/2014,9,@,New Mexico,W
+112,Boston College,11/08/2014,10,,Louisville,L
+113,Colorado,11/08/2014,10,@,Arizona,L
+114,Colorado State,11/08/2014,10,,Hawaii,W
+115,Connecticut,11/08/2014,9,N,Army,L
+116,Duke,11/08/2014,9,@,Syracuse,W
+117,Florida,11/08/2014,9,@,Vanderbilt,W
+118,Florida Atlantic,11/08/2014,10,@,North Texas,L
+119,Florida International,11/08/2014,10,@,Old Dominion,L
+120,Florida State,11/08/2014,9,,Virginia,W
+121,Fresno State,11/08/2014,10,,San Jose State,W
+122,Georgia,11/08/2014,9,@,Kentucky,W
+123,Georgia Southern,11/08/2014,10,@,Texas State,W
+124,Georgia State,11/08/2014,10,@,Troy,L
+125,Georgia Tech,11/08/2014,10,@,North Carolina State,W
+126,Hawaii,11/08/2014,10,@,Colorado State,L
+127,Houston,11/08/2014,9,,Tulane,L
+128,Idaho,11/08/2014,10,@,San Diego State,L
+129,Indiana,11/08/2014,9,,Penn State,L
+130,Iowa,11/08/2014,9,@,Minnesota,L
+131,Iowa State,11/08/2014,9,@,Kansas,L
+132,Kansas,11/08/2014,9,,Iowa State,W
+133,Kansas State,11/08/2014,9,@,Texas Christian,L
+134,Kentucky,11/08/2014,10,,Georgia,L
+135,Louisiana State,11/08/2014,10,,Alabama,L
+136,Louisiana Tech,11/08/2014,10,@,Alabama-Birmingham,W
+137,Louisiana-Lafayette,11/08/2014,9,@,New Mexico State,W
+138,Louisiana-Monroe,11/08/2014,9,@,Appalachian State,L
+139,Louisville,11/08/2014,10,@,Boston College,W
+140,Marshall,11/08/2014,9,@,Southern Mississippi,W
+141,Michigan,11/08/2014,10,@,Northwestern,W
+142,Michigan State,11/08/2014,9,,Ohio State,L
+143,Minnesota,11/08/2014,9,,Iowa,W
+144,Mississippi,11/08/2014,10,,Presbyterian,W
+145,Mississippi State,11/08/2014,9,,Tennessee-Martin,W
+146,Nevada-Las Vegas,11/08/2014,10,,Air Force,L
+147,New Mexico,11/08/2014,9,,Boise State,L
+148,New Mexico State,11/08/2014,10,,Louisiana-Lafayette,L
+149,North Carolina State,11/08/2014,10,,Georgia Tech,L
+150,North Texas,11/08/2014,9,,Florida Atlantic,W
+151,Northwestern,11/08/2014,9,,Michigan,L
+152,Notre Dame,11/08/2014,9,@,Arizona State,L
+153,Ohio State,11/08/2014,9,@,Michigan State,W
+154,Oklahoma,11/08/2014,9,,Baylor,L
+155,Old Dominion,11/08/2014,10,,Florida International,W
+156,Oregon,11/08/2014,10,@,Utah,W
+157,Oregon State,11/08/2014,9,,Washington State,L
+158,Penn State,11/08/2014,9,@,Indiana,W
+159,Purdue,11/08/2014,10,,Wisconsin,L
+160,Rice,11/08/2014,9,,Texas-San Antonio,W
+161,San Diego State,11/08/2014,9,,Idaho,W
+162,San Jose State,11/08/2014,9,@,Fresno State,L
+163,South Alabama,11/08/2014,9,@,Arkansas State,L
+164,Southern Methodist,11/08/2014,8,@,Tulsa,L
+165,Southern Mississippi,11/08/2014,10,,Marshall,L
+166,Syracuse,11/08/2014,10,,Duke,L
+167,Texas,11/08/2014,10,,West Virginia,W
+168,Texas A&M,11/08/2014,10,@,Auburn,W
+169,Texas Christian,11/08/2014,9,,Kansas State,W
+170,Texas State,11/08/2014,9,,Georgia Southern,L
+171,Texas-El Paso,11/08/2014,9,@,Western Kentucky,L
+172,Texas-San Antonio,11/08/2014,9,@,Rice,L
+173,Troy,11/08/2014,10,,Georgia State,W
+174,Tulane,11/08/2014,9,@,Houston,W
+175,Tulsa,11/08/2014,9,,Southern Methodist,W
+176,UCLA,11/08/2014,10,@,Washington,W
+177,Utah,11/08/2014,9,,Oregon,L
+178,Vanderbilt,11/08/2014,10,,Florida,L
+179,Virginia,11/08/2014,10,@,Florida State,L
+180,Washington,11/08/2014,10,,UCLA,L
+181,Washington State,11/08/2014,10,@,Oregon State,W
+182,West Virginia,11/08/2014,10,@,Texas,L
+183,Western Kentucky,11/08/2014,9,,Texas-El Paso,W
+184,Wisconsin,11/08/2014,9,@,Purdue,W
+185,Memphis,11/07/2014,9,@,Temple,W
+186,Temple,11/07/2014,9,,Memphis,L
+187,Utah State,11/07/2014,10,@,Wyoming,W
+188,Wyoming,11/07/2014,10,,Utah State,L
+189,Clemson,11/06/2014,9,@,Wake Forest,W
+190,Wake Forest,11/06/2014,9,,Clemson,L
+191,Ball State,11/05/2014,9,,Northern Illinois,L
+192,Buffalo,11/05/2014,9,@,Ohio,L
+193,Northern Illinois,11/05/2014,9,@,Ball State,W
+194,Ohio,11/05/2014,10,,Buffalo,W
+195,Akron,11/04/2014,9,,Bowling Green State,L
+196,Bowling Green State,11/04/2014,9,@,Akron,W
+197,Kent State,11/04/2014,9,,Toledo,L
+198,Toledo,11/04/2014,9,@,Kent State,W
+199,Air Force,11/01/2014,8,@,Army,W
+200,Alabama-Birmingham,11/01/2014,9,@,Florida Atlantic,W
+201,Appalachian State,11/01/2014,8,,Georgia State,W
+202,Arizona,11/01/2014,8,@,UCLA,L
+203,Arizona State,11/01/2014,8,,Utah,W
+204,Arkansas,11/01/2014,9,@,Mississippi State,L
+205,Arkansas State,11/01/2014,8,@,Idaho,W
+206,Army,11/01/2014,8,,Air Force,L
+207,Auburn,11/01/2014,8,@,Mississippi,W
+208,Baylor,11/01/2014,8,,Kansas,W
+209,Boston College,11/01/2014,9,@,Virginia Tech,W
+210,Brigham Young,11/01/2014,9,@,Middle Tennessee State,W
+211,California,11/01/2014,9,@,Oregon State,W
+212,Central Florida,11/01/2014,8,@,Connecticut,L
+213,Central Michigan,11/01/2014,10,@,Eastern Michigan,W
+214,Colorado,11/01/2014,9,,Washington,L
+215,Colorado State,11/01/2014,9,@,San Jose State,W
+216,Connecticut,11/01/2014,8,,Central Florida,W
+217,Duke,11/01/2014,8,@,Pittsburgh,W
+218,East Carolina,11/01/2014,8,@,Temple,L
+219,Eastern Michigan,11/01/2014,9,,Central Michigan,L
+220,Florida,11/01/2014,8,N,Georgia,W
+221,Florida Atlantic,11/01/2014,9,,Alabama-Birmingham,L
+222,Florida International,11/01/2014,9,,Rice,L
+223,Fresno State,11/01/2014,9,,Wyoming,L
+224,Georgia,11/01/2014,8,N,Florida,L
+225,Georgia State,11/01/2014,9,@,Appalachian State,L
+226,Georgia Tech,11/01/2014,9,,Virginia,W
+227,Hawaii,11/01/2014,9,,Utah State,L
+228,Houston,11/01/2014,8,@,South Florida,W
+229,Idaho,11/01/2014,9,,Arkansas State,L
+230,Illinois,11/01/2014,9,@,Ohio State,L
+231,Indiana,11/01/2014,8,@,Michigan,L
+232,Iowa,11/01/2014,8,,Northwestern,W
+233,Iowa State,11/01/2014,8,,Oklahoma,L
+234,Kansas,11/01/2014,8,@,Baylor,L
+235,Kansas State,11/01/2014,8,,Oklahoma State,W
+236,Kentucky,11/01/2014,9,@,Missouri,L
+237,Louisiana Tech,11/01/2014,9,,Western Kentucky,W
+238,Louisiana-Lafayette,11/01/2014,8,,South Alabama,W
+239,Louisiana-Monroe,11/01/2014,8,@,Texas A&M,L
+240,Maryland,11/01/2014,9,@,Penn State,W
+241,Miami (FL),11/01/2014,9,,North Carolina,W
+242,Miami (OH),11/01/2014,10,,Western Michigan,L
+243,Michigan,11/01/2014,9,,Indiana,W
+244,Middle Tennessee State,11/01/2014,9,,Brigham Young,L
+245,Mississippi,11/01/2014,9,,Auburn,L
+246,Mississippi State,11/01/2014,8,,Arkansas,W
+247,Missouri,11/01/2014,9,,Kentucky,W
+248,Navy,11/01/2014,9,N,Notre Dame,L
+249,Nebraska,11/01/2014,9,,Purdue,W
+250,Nevada,11/01/2014,9,,San Diego State,W
+251,Nevada-Las Vegas,11/01/2014,9,,New Mexico,L
+252,New Mexico,11/01/2014,8,@,Nevada-Las Vegas,W
+253,New Mexico State,11/01/2014,9,,Texas State,L
+254,North Carolina,11/01/2014,9,@,Miami (FL),L
+255,North Carolina State,11/01/2014,9,@,Syracuse,W
+256,Northwestern,11/01/2014,8,@,Iowa,L
+257,Notre Dame,11/01/2014,8,N,Navy,W
+258,Ohio State,11/01/2014,8,,Illinois,W
+259,Oklahoma,11/01/2014,8,@,Iowa State,W
+260,Oklahoma State,11/01/2014,9,@,Kansas State,L
+261,Old Dominion,11/01/2014,9,@,Vanderbilt,L
+262,Oregon,11/01/2014,9,,Stanford,W
+263,Oregon State,11/01/2014,8,,California,L
+264,Penn State,11/01/2014,8,,Maryland,L
+265,Pittsburgh,11/01/2014,9,,Duke,L
+266,Purdue,11/01/2014,9,@,Nebraska,L
+267,Rice,11/01/2014,8,@,Florida International,W
+268,Rutgers,11/01/2014,9,,Wisconsin,L
+269,San Diego State,11/01/2014,8,@,Nevada,L
+270,San Jose State,11/01/2014,8,,Colorado State,L
+271,South Alabama,11/01/2014,8,@,Louisiana-Lafayette,L
+272,South Carolina,11/01/2014,9,,Tennessee,L
+273,South Florida,11/01/2014,9,,Houston,L
+274,Southern California,11/01/2014,9,@,Washington State,W
+275,Southern Mississippi,11/01/2014,9,@,Texas-El Paso,L
+276,Stanford,11/01/2014,9,@,Oregon,L
+277,Syracuse,11/01/2014,9,,North Carolina State,L
+278,Temple,11/01/2014,8,,East Carolina,W
+279,Tennessee,11/01/2014,9,@,South Carolina,W
+280,Texas,11/01/2014,9,@,Texas Tech,W
+281,Texas A&M,11/01/2014,9,,Louisiana-Monroe,W
+282,Texas Christian,11/01/2014,8,@,West Virginia,W
+283,Texas State,11/01/2014,8,@,New Mexico State,W
+284,Texas Tech,11/01/2014,9,,Texas,L
+285,Texas-El Paso,11/01/2014,8,,Southern Mississippi,W
+286,UCLA,11/01/2014,9,,Arizona,W
+287,Utah,11/01/2014,8,@,Arizona State,L
+288,Utah State,11/01/2014,9,@,Hawaii,W
+289,Vanderbilt,11/01/2014,9,,Old Dominion,W
+290,Virginia,11/01/2014,9,@,Georgia Tech,L
+291,Virginia Tech,11/01/2014,9,,Boston College,L
+292,Washington,11/01/2014,9,@,Colorado,W
+293,Washington State,11/01/2014,9,,Southern California,L
+294,West Virginia,11/01/2014,9,,Texas Christian,L
+295,Western Kentucky,11/01/2014,8,@,Louisiana Tech,L
+296,Western Michigan,11/01/2014,9,@,Miami (OH),W
+297,Wisconsin,11/01/2014,8,@,Rutgers,W
+298,Wyoming,11/01/2014,9,@,Fresno State,W
+299,Cincinnati,10/31/2014,8,@,Tulane,W
+300,Memphis,10/31/2014,8,,Tulsa,W
+301,Tulane,10/31/2014,8,,Cincinnati,L
+302,Tulsa,10/31/2014,8,@,Memphis,L
+303,Florida State,10/30/2014,8,@,Louisville,W
+304,Georgia Southern,10/30/2014,9,,Troy,W
+305,Louisville,10/30/2014,9,,Florida State,L
+306,Troy,10/30/2014,9,@,Georgia Southern,L
+307,Akron,10/25/2014,8,@,Ball State,L
+308,Alabama,10/25/2014,8,@,Tennessee,W
+309,Alabama-Birmingham,10/25/2014,8,@,Arkansas,L
+310,Arizona,10/25/2014,7,@,Washington State,W
+311,Arizona State,10/25/2014,7,@,Washington,W
+312,Arkansas,10/25/2014,8,,Alabama-Birmingham,W
+313,Auburn,10/25/2014,7,,South Carolina,W
+314,Ball State,10/25/2014,8,,Akron,W
+315,Boston College,10/25/2014,8,@,Wake Forest,W
+316,Buffalo,10/25/2014,8,,Central Michigan,L
+317,Central Florida,10/25/2014,7,,Temple,W
+318,Central Michigan,10/25/2014,9,@,Buffalo,W
+319,Clemson,10/25/2014,8,,Syracuse,W
+320,Colorado,10/25/2014,8,,UCLA,L
+321,Colorado State,10/25/2014,8,,Wyoming,W
+322,Eastern Michigan,10/25/2014,8,,Northern Illinois,L
+323,Florida Atlantic,10/25/2014,8,@,Marshall,L
+324,Georgia Southern,10/25/2014,8,@,Georgia State,W
+325,Georgia State,10/25/2014,8,,Georgia Southern,L
+326,Georgia Tech,10/25/2014,8,@,Pittsburgh,W
+327,Hawaii,10/25/2014,8,,Nevada,L
+328,Illinois,10/25/2014,8,,Minnesota,W
+329,Kansas State,10/25/2014,7,,Texas,W
+330,Kent State,10/25/2014,8,@,Miami (OH),L
+331,Kentucky,10/25/2014,8,,Mississippi State,L
+332,Louisiana State,10/25/2014,9,,Mississippi,W
+333,Louisiana Tech,10/25/2014,8,@,Southern Mississippi,W
+334,Louisiana-Monroe,10/25/2014,7,,Texas State,L
+335,Marshall,10/25/2014,8,,Florida Atlantic,W
+336,Maryland,10/25/2014,8,@,Wisconsin,L
+337,Massachusetts,10/25/2014,9,@,Toledo,L
+338,Memphis,10/25/2014,7,@,Southern Methodist,W
+339,Miami (OH),10/25/2014,9,,Kent State,W
+340,Michigan,10/25/2014,8,@,Michigan State,L
+341,Michigan State,10/25/2014,8,,Michigan,W
+342,Minnesota,10/25/2014,8,@,Illinois,L
+343,Mississippi,10/25/2014,8,@,Louisiana State,L
+344,Mississippi State,10/25/2014,7,@,Kentucky,W
+345,Missouri,10/25/2014,8,,Vanderbilt,W
+346,Navy,10/25/2014,8,,San Jose State,W
+347,Nebraska,10/25/2014,8,,Rutgers,W
+348,Nevada,10/25/2014,8,@,Hawaii,W
+349,Nevada-Las Vegas,10/25/2014,8,@,Utah State,L
+350,North Carolina,10/25/2014,8,@,Virginia,W
+351,North Texas,10/25/2014,8,@,Rice,L
+352,Northern Illinois,10/25/2014,8,@,Eastern Michigan,W
+353,Ohio,10/25/2014,9,@,Western Michigan,L
+354,Ohio State,10/25/2014,7,@,Penn State,W
+355,Oklahoma State,10/25/2014,8,,West Virginia,L
+356,Old Dominion,10/25/2014,8,@,Western Kentucky,L
+357,Oregon State,10/25/2014,7,@,Stanford,L
+358,Penn State,10/25/2014,7,,Ohio State,L
+359,Pittsburgh,10/25/2014,8,,Georgia Tech,L
+360,Rice,10/25/2014,7,,North Texas,W
+361,Rutgers,10/25/2014,8,@,Nebraska,L
+362,San Jose State,10/25/2014,7,@,Navy,L
+363,South Carolina,10/25/2014,8,@,Auburn,L
+364,Southern California,10/25/2014,8,@,Utah,L
+365,Southern Methodist,10/25/2014,7,,Memphis,L
+366,Southern Mississippi,10/25/2014,8,,Louisiana Tech,L
+367,Stanford,10/25/2014,8,,Oregon State,W
+368,Syracuse,10/25/2014,8,@,Clemson,L
+369,Temple,10/25/2014,7,@,Central Florida,L
+370,Tennessee,10/25/2014,8,,Alabama,L
+371,Texas,10/25/2014,8,@,Kansas State,L
+372,Texas Christian,10/25/2014,7,,Texas Tech,W
+373,Texas State,10/25/2014,7,@,Louisiana-Monroe,W
+374,Texas Tech,10/25/2014,8,@,Texas Christian,L
+375,Texas-El Paso,10/25/2014,7,@,Texas-San Antonio,W
+376,Texas-San Antonio,10/25/2014,8,,Texas-El Paso,L
+377,Toledo,10/25/2014,8,,Massachusetts,W
+378,UCLA,10/25/2014,8,@,Colorado,W
+379,Utah,10/25/2014,7,,Southern California,W
+380,Utah State,10/25/2014,8,,Nevada-Las Vegas,W
+381,Vanderbilt,10/25/2014,8,@,Missouri,L
+382,Virginia,10/25/2014,8,,North Carolina,L
+383,Wake Forest,10/25/2014,8,,Boston College,L
+384,Washington,10/25/2014,8,,Arizona State,L
+385,Washington State,10/25/2014,8,,Arizona,L
+386,West Virginia,10/25/2014,8,@,Oklahoma State,W
+387,Western Kentucky,10/25/2014,7,,Old Dominion,W
+388,Western Michigan,10/25/2014,8,,Ohio,W
+389,Wisconsin,10/25/2014,7,,Maryland,W
+390,Wyoming,10/25/2014,8,@,Colorado State,L
+391,Boise State,10/24/2014,8,,Brigham Young,W
+392,Brigham Young,10/24/2014,8,@,Boise State,L
+393,California,10/24/2014,8,N,Oregon,L
+394,Cincinnati,10/24/2014,7,N,South Florida,W
+395,Oregon,10/24/2014,8,N,California,W
+396,South Alabama,10/24/2014,7,,Troy,W
+397,South Florida,10/24/2014,8,N,Cincinnati,L
+398,Troy,10/24/2014,8,@,South Alabama,L
+399,Connecticut,10/23/2014,7,@,East Carolina,L
+400,East Carolina,10/23/2014,7,,Connecticut,W
+401,Miami (FL),10/23/2014,8,@,Virginia Tech,W
+402,Virginia Tech,10/23/2014,8,,Miami (FL),L
+403,Arkansas State,10/21/2014,7,@,Louisiana-Lafayette,L
+404,Louisiana-Lafayette,10/21/2014,7,,Arkansas State,W
+405,Air Force,10/18/2014,7,,New Mexico,W
+406,Akron,10/18/2014,7,@,Ohio,L
+407,Alabama,10/18/2014,7,,Texas A&M,W
+408,Alabama-Birmingham,10/18/2014,7,@,Middle Tennessee State,L
+409,Appalachian State,10/18/2014,7,@,Troy,W
+410,Arizona State,10/18/2014,6,,Stanford,W
+411,Arkansas,10/18/2014,7,N,Georgia,L
+412,Army,10/18/2014,7,@,Kent State,L
+413,Ball State,10/18/2014,7,@,Central Michigan,W
+414,Baylor,10/18/2014,7,@,West Virginia,L
+415,Boston College,10/18/2014,7,,Clemson,L
+416,Bowling Green State,10/18/2014,8,,Western Michigan,L
+417,Brigham Young,10/18/2014,7,,Nevada,L
+418,California,10/18/2014,7,,UCLA,L
+419,Central Florida,10/18/2014,6,,Tulane,W
+420,Central Michigan,10/18/2014,8,,Ball State,L
+421,Cincinnati,10/18/2014,6,@,Southern Methodist,W
+422,Clemson,10/18/2014,7,@,Boston College,W
+423,Colorado,10/18/2014,7,@,Southern California,L
+424,Colorado State,10/18/2014,7,,Utah State,W
+425,Duke,10/18/2014,7,,Virginia,W
+426,Eastern Michigan,10/18/2014,7,N,Massachusetts,L
+427,Florida,10/18/2014,7,,Missouri,L
+428,Florida Atlantic,10/18/2014,7,,Western Kentucky,W
+429,Florida International,10/18/2014,8,,Marshall,L
+430,Florida State,10/18/2014,7,,Notre Dame,W
+431,Georgia,10/18/2014,7,N,Arkansas,W
+432,Georgia State,10/18/2014,7,@,South Alabama,L
+433,Georgia Tech,10/18/2014,7,@,North Carolina,L
+434,Hawaii,10/18/2014,7,@,San Diego State,L
+435,Idaho,10/18/2014,8,,New Mexico State,W
+436,Indiana,10/18/2014,7,,Michigan State,L
+437,Iowa,10/18/2014,7,@,Maryland,L
+438,Iowa State,10/18/2014,7,@,Texas,L
+439,Kansas,10/18/2014,7,@,Texas Tech,L
+440,Kansas State,10/18/2014,6,@,Oklahoma,W
+441,Kent State,10/18/2014,7,,Army,W
+442,Kentucky,10/18/2014,7,@,Louisiana State,L
+443,Louisiana State,10/18/2014,8,,Kentucky,W
+444,Louisiana Tech,10/18/2014,7,,Texas-San Antonio,W
+445,Louisville,10/18/2014,8,,North Carolina State,W
+446,Marshall,10/18/2014,7,@,Florida International,W
+447,Maryland,10/18/2014,7,,Iowa,W
+448,Massachusetts,10/18/2014,8,N,Eastern Michigan,W
+449,Miami (OH),10/18/2014,8,@,Northern Illinois,L
+450,Michigan State,10/18/2014,7,@,Indiana,W
+451,Middle Tennessee State,10/18/2014,8,,Alabama-Birmingham,W
+452,Minnesota,10/18/2014,7,,Purdue,W
+453,Mississippi,10/18/2014,7,,Tennessee,W
+454,Missouri,10/18/2014,7,@,Florida,W
+455,Nebraska,10/18/2014,7,@,Northwestern,W
+456,Nevada,10/18/2014,7,@,Brigham Young,W
+457,New Mexico,10/18/2014,7,@,Air Force,L
+458,New Mexico State,10/18/2014,8,@,Idaho,L
+459,North Carolina,10/18/2014,7,,Georgia Tech,W
+460,North Carolina State,10/18/2014,8,@,Louisville,L
+461,North Texas,10/18/2014,7,,Southern Mississippi,L
+462,Northern Illinois,10/18/2014,7,,Miami (OH),W
+463,Northwestern,10/18/2014,7,,Nebraska,L
+464,Notre Dame,10/18/2014,7,@,Florida State,L
+465,Ohio,10/18/2014,8,,Akron,W
+466,Ohio State,10/18/2014,6,,Rutgers,W
+467,Oklahoma,10/18/2014,7,,Kansas State,L
+468,Oklahoma State,10/18/2014,7,@,Texas Christian,L
+469,Oregon,10/18/2014,7,,Washington,W
+470,Purdue,10/18/2014,8,@,Minnesota,L
+471,Rutgers,10/18/2014,7,@,Ohio State,L
+472,San Diego State,10/18/2014,7,,Hawaii,W
+473,San Jose State,10/18/2014,6,@,Wyoming,W
+474,South Alabama,10/18/2014,6,,Georgia State,W
+475,South Carolina,10/18/2014,7,,Furman,W
+476,South Florida,10/18/2014,7,@,Tulsa,W
+477,Southern California,10/18/2014,7,,Colorado,W
+478,Southern Methodist,10/18/2014,6,,Cincinnati,L
+479,Southern Mississippi,10/18/2014,7,@,North Texas,W
+480,Stanford,10/18/2014,7,@,Arizona State,L
+481,Syracuse,10/18/2014,7,@,Wake Forest,W
+482,Tennessee,10/18/2014,7,@,Mississippi,L
+483,Texas,10/18/2014,7,,Iowa State,W
+484,Texas A&M,10/18/2014,8,@,Alabama,L
+485,Texas Christian,10/18/2014,6,,Oklahoma State,W
+486,Texas Tech,10/18/2014,7,,Kansas,W
+487,Texas-San Antonio,10/18/2014,7,@,Louisiana Tech,L
+488,Troy,10/18/2014,7,,Appalachian State,L
+489,Tulane,10/18/2014,7,@,Central Florida,L
+490,Tulsa,10/18/2014,7,,South Florida,L
+491,UCLA,10/18/2014,7,@,California,W
+492,Utah State,10/18/2014,7,@,Colorado State,L
+493,Virginia,10/18/2014,7,@,Duke,L
+494,Wake Forest,10/18/2014,7,,Syracuse,L
+495,Washington,10/18/2014,7,@,Oregon,L
+496,West Virginia,10/18/2014,7,,Baylor,W
+497,Western Kentucky,10/18/2014,6,@,Florida Atlantic,L
+498,Western Michigan,10/18/2014,7,@,Bowling Green State,W
+499,Wyoming,10/18/2014,7,,San Jose State,L
+500,Boise State,10/17/2014,7,,Fresno State,W
+501,Fresno State,10/17/2014,8,@,Boise State,L
+502,Houston,10/17/2014,7,,Temple,W
+503,Temple,10/17/2014,6,@,Houston,L
+504,Oregon State,10/16/2014,6,,Utah,L
+505,Pittsburgh,10/16/2014,7,,Virginia Tech,W
+506,Utah,10/16/2014,6,@,Oregon State,W
+507,Virginia Tech,10/16/2014,7,@,Pittsburgh,L
+508,Louisiana-Lafayette,10/14/2014,6,@,Texas State,W
+509,Texas State,10/14/2014,6,,Louisiana-Lafayette,L
+510,Air Force,10/11/2014,6,@,Utah State,L
+511,Akron,10/11/2014,6,,Miami (OH),W
+512,Alabama,10/11/2014,6,@,Arkansas,W
+513,Alabama-Birmingham,10/11/2014,6,,North Texas,W
+514,Appalachian State,10/11/2014,6,,Liberty,L
+515,Arizona,10/11/2014,6,,Southern California,L
+516,Arkansas,10/11/2014,6,,Alabama,L
+517,Arkansas State,10/11/2014,6,@,Georgia State,W
+518,Army,10/11/2014,6,,Rice,L
+519,Auburn,10/11/2014,6,@,Mississippi State,L
+520,Ball State,10/11/2014,6,,Western Michigan,L
+521,Baylor,10/11/2014,6,,Texas Christian,W
+522,Boston College,10/11/2014,6,@,North Carolina State,W
+523,Bowling Green State,10/11/2014,7,@,Ohio,W
+524,Buffalo,10/11/2014,7,@,Eastern Michigan,L
+525,California,10/11/2014,6,,Washington,L
+526,Central Michigan,10/11/2014,7,@,Northern Illinois,W
+527,Cincinnati,10/11/2014,5,@,Miami (FL),L
+528,Clemson,10/11/2014,6,,Louisville,W
+529,Colorado State,10/11/2014,6,@,Nevada,W
+530,Connecticut,10/11/2014,6,@,Tulane,L
+531,Duke,10/11/2014,6,@,Georgia Tech,W
+532,East Carolina,10/11/2014,6,@,South Florida,W
+533,Eastern Michigan,10/11/2014,6,,Buffalo,W
+534,Florida,10/11/2014,6,,Louisiana State,L
+535,Florida International,10/11/2014,7,@,Texas-San Antonio,L
+536,Florida State,10/11/2014,6,@,Syracuse,W
+537,Georgia,10/11/2014,6,@,Missouri,W
+538,Georgia Southern,10/11/2014,7,,Idaho,W
+539,Georgia State,10/11/2014,6,,Arkansas State,L
+540,Georgia Tech,10/11/2014,6,,Duke,L
+541,Hawaii,10/11/2014,6,,Wyoming,W
+542,Houston,10/11/2014,6,@,Memphis,W
+543,Idaho,10/11/2014,7,@,Georgia Southern,L
+544,Illinois,10/11/2014,7,@,Wisconsin,L
+545,Indiana,10/11/2014,6,@,Iowa,L
+546,Iowa,10/11/2014,6,,Indiana,W
+547,Iowa State,10/11/2014,6,,Toledo,W
+548,Kansas,10/11/2014,6,,Oklahoma State,L
+549,Kent State,10/11/2014,6,,Massachusetts,L
+550,Kentucky,10/11/2014,6,,Louisiana-Monroe,W
+551,Louisiana State,10/11/2014,7,@,Florida,W
+552,Louisiana-Monroe,10/11/2014,6,@,Kentucky,L
+553,Louisville,10/11/2014,7,@,Clemson,L
+554,Marshall,10/11/2014,6,,Middle Tennessee State,W
+555,Massachusetts,10/11/2014,7,@,Kent State,W
+556,Memphis,10/11/2014,6,,Houston,L
+557,Miami (FL),10/11/2014,7,,Cincinnati,W
+558,Miami (OH),10/11/2014,7,@,Akron,L
+559,Michigan,10/11/2014,7,,Penn State,W
+560,Michigan State,10/11/2014,6,@,Purdue,W
+561,Middle Tennessee State,10/11/2014,7,@,Marshall,L
+562,Minnesota,10/11/2014,6,,Northwestern,W
+563,Mississippi,10/11/2014,6,@,Texas A&M,W
+564,Mississippi State,10/11/2014,6,,Auburn,W
+565,Missouri,10/11/2014,6,,Georgia,L
+566,Navy,10/11/2014,7,,Virginia Military Institute,W
+567,Nevada,10/11/2014,6,,Colorado State,L
+568,New Mexico State,10/11/2014,7,@,Troy,L
+569,North Carolina,10/11/2014,6,@,Notre Dame,L
+570,North Carolina State,10/11/2014,7,,Boston College,L
+571,North Texas,10/11/2014,6,@,Alabama-Birmingham,L
+572,Northern Illinois,10/11/2014,6,,Central Michigan,L
+573,Northwestern,10/11/2014,6,@,Minnesota,L
+574,Notre Dame,10/11/2014,6,,North Carolina,W
+575,Ohio,10/11/2014,7,,Bowling Green State,L
+576,Oklahoma,10/11/2014,6,N,Texas,W
+577,Oklahoma State,10/11/2014,6,@,Kansas,W
+578,Old Dominion,10/11/2014,7,@,Texas-El Paso,L
+579,Oregon,10/11/2014,6,@,UCLA,W
+580,Penn State,10/11/2014,6,@,Michigan,L
+581,Purdue,10/11/2014,7,,Michigan State,L
+582,Rice,10/11/2014,6,@,Army,W
+583,South Florida,10/11/2014,6,,East Carolina,L
+584,Southern California,10/11/2014,6,@,Arizona,W
+585,Syracuse,10/11/2014,6,,Florida State,L
+586,Temple,10/11/2014,5,,Tulsa,W
+587,Tennessee,10/11/2014,6,,Chattanooga,W
+588,Texas,10/11/2014,6,N,Oklahoma,L
+589,Texas A&M,10/11/2014,7,,Mississippi,L
+590,Texas Christian,10/11/2014,5,@,Baylor,L
+591,Texas Tech,10/11/2014,6,,West Virginia,L
+592,Texas-El Paso,10/11/2014,6,,Old Dominion,W
+593,Texas-San Antonio,10/11/2014,6,,Florida International,W
+594,Toledo,10/11/2014,7,@,Iowa State,L
+595,Troy,10/11/2014,6,,New Mexico State,W
+596,Tulane,10/11/2014,6,,Connecticut,W
+597,Tulsa,10/11/2014,6,@,Temple,L
+598,UCLA,10/11/2014,6,,Oregon,L
+599,Utah State,10/11/2014,6,,Air Force,W
+600,Vanderbilt,10/11/2014,7,,Charleston Southern,W
+601,Washington,10/11/2014,6,@,California,W
+602,West Virginia,10/11/2014,6,@,Texas Tech,W
+603,Western Michigan,10/11/2014,6,@,Ball State,W
+604,Wisconsin,10/11/2014,6,,Illinois,W
+605,Wyoming,10/11/2014,6,@,Hawaii,L
+606,Fresno State,10/10/2014,7,@,Nevada-Las Vegas,L
+607,Nevada-Las Vegas,10/10/2014,7,,Fresno State,W
+608,New Mexico,10/10/2014,6,,San Diego State,L
+609,San Diego State,10/10/2014,6,@,New Mexico,W
+610,Stanford,10/10/2014,6,,Washington State,W
+611,Washington State,10/10/2014,7,@,Stanford,L
+612,Brigham Young,10/09/2014,6,@,Central Florida,L
+613,Central Florida,10/09/2014,5,,Brigham Young,W
+614,Air Force,10/04/2014,5,,Navy,W
+615,Akron,10/04/2014,5,,Eastern Michigan,W
+616,Alabama,10/04/2014,5,@,Mississippi,L
+617,Alabama-Birmingham,10/04/2014,5,@,Western Kentucky,W
+618,Appalachian State,10/04/2014,5,,South Alabama,L
+619,Arizona State,10/04/2014,5,@,Southern California,W
+620,Arkansas State,10/04/2014,5,,Louisiana-Monroe,W
+621,Army,10/04/2014,5,,Ball State,W
+622,Auburn,10/04/2014,5,,Louisiana State,W
+623,Ball State,10/04/2014,5,@,Army,L
+624,Baylor,10/04/2014,5,@,Texas,W
+625,Boise State,10/04/2014,6,@,Nevada,W
+626,Bowling Green State,10/04/2014,6,,Buffalo,W
+627,Buffalo,10/04/2014,6,@,Bowling Green State,L
+628,California,10/04/2014,5,@,Washington State,W
+629,Central Michigan,10/04/2014,6,,Ohio,W
+630,Cincinnati,10/04/2014,4,N,Memphis,L
+631,Clemson,10/04/2014,5,,North Carolina State,W
+632,Colorado,10/04/2014,6,,Oregon State,L
+633,Colorado State,10/04/2014,5,,Tulsa,W
+634,East Carolina,10/04/2014,5,,Southern Methodist,W
+635,Eastern Michigan,10/04/2014,5,@,Akron,L
+636,Florida,10/04/2014,5,@,Tennessee,W
+637,Florida State,10/04/2014,5,,Wake Forest,W
+638,Georgia,10/04/2014,5,,Vanderbilt,W
+639,Georgia Southern,10/04/2014,6,@,New Mexico State,W
+640,Georgia State,10/04/2014,5,@,Louisiana-Lafayette,L
+641,Georgia Tech,10/04/2014,5,,Miami (FL),W
+642,Hawaii,10/04/2014,5,@,Rice,L
+643,Idaho,10/04/2014,6,@,Texas State,L
+644,Illinois,10/04/2014,6,,Purdue,L
+645,Indiana,10/04/2014,5,,North Texas,W
+646,Iowa State,10/04/2014,5,@,Oklahoma State,L
+647,Kansas,10/04/2014,5,@,West Virginia,L
+648,Kansas State,10/04/2014,5,,Texas Tech,W
+649,Kent State,10/04/2014,5,@,Northern Illinois,L
+650,Kentucky,10/04/2014,5,,South Carolina,W
+651,Louisiana State,10/04/2014,6,@,Auburn,L
+652,Louisiana Tech,10/04/2014,6,,Texas-El Paso,W
+653,Louisiana-Lafayette,10/04/2014,5,,Georgia State,W
+654,Louisiana-Monroe,10/04/2014,5,@,Arkansas State,L
+655,Marshall,10/04/2014,5,@,Old Dominion,W
+656,Maryland,10/04/2014,6,,Ohio State,L
+657,Massachusetts,10/04/2014,6,@,Miami (OH),L
+658,Memphis,10/04/2014,5,N,Cincinnati,W
+659,Miami (FL),10/04/2014,6,@,Georgia Tech,L
+660,Miami (OH),10/04/2014,6,,Massachusetts,W
+661,Michigan,10/04/2014,6,@,Rutgers,L
+662,Michigan State,10/04/2014,5,,Nebraska,W
+663,Middle Tennessee State,10/04/2014,6,,Southern Mississippi,W
+664,Mississippi,10/04/2014,5,,Alabama,W
+665,Mississippi State,10/04/2014,5,,Texas A&M,W
+666,Navy,10/04/2014,6,@,Air Force,L
+667,Nebraska,10/04/2014,6,@,Michigan State,L
+668,Nevada,10/04/2014,5,,Boise State,L
+669,Nevada-Las Vegas,10/04/2014,6,@,San Jose State,L
+670,New Mexico,10/04/2014,5,@,Texas-San Antonio,W
+671,New Mexico State,10/04/2014,6,,Georgia Southern,L
+672,North Carolina,10/04/2014,5,,Virginia Tech,L
+673,North Carolina State,10/04/2014,6,@,Clemson,L
+674,North Texas,10/04/2014,5,@,Indiana,L
+675,Northern Illinois,10/04/2014,5,,Kent State,W
+676,Northwestern,10/04/2014,5,,Wisconsin,W
+677,Notre Dame,10/04/2014,5,,Stanford,W
+678,Ohio,10/04/2014,6,@,Central Michigan,L
+679,Ohio State,10/04/2014,5,@,Maryland,W
+680,Oklahoma,10/04/2014,5,@,Texas Christian,L
+681,Oklahoma State,10/04/2014,5,,Iowa State,W
+682,Old Dominion,10/04/2014,6,,Marshall,L
+683,Oregon State,10/04/2014,5,@,Colorado,W
+684,Pittsburgh,10/04/2014,6,@,Virginia,L
+685,Purdue,10/04/2014,6,@,Illinois,W
+686,Rice,10/04/2014,5,,Hawaii,W
+687,Rutgers,10/04/2014,6,,Michigan,W
+688,San Jose State,10/04/2014,5,,Nevada-Las Vegas,W
+689,South Alabama,10/04/2014,5,@,Appalachian State,W
+690,South Carolina,10/04/2014,6,@,Kentucky,L
+691,Southern California,10/04/2014,5,,Arizona State,L
+692,Southern Methodist,10/04/2014,5,@,East Carolina,L
+693,Southern Mississippi,10/04/2014,6,@,Middle Tennessee State,L
+694,Stanford,10/04/2014,5,@,Notre Dame,L
+695,Tennessee,10/04/2014,5,,Florida,L
+696,Texas,10/04/2014,5,,Baylor,L
+697,Texas A&M,10/04/2014,6,@,Mississippi State,L
+698,Texas Christian,10/04/2014,4,,Oklahoma,W
+699,Texas State,10/04/2014,5,,Idaho,W
+700,Texas Tech,10/04/2014,5,@,Kansas State,L
+701,Texas-El Paso,10/04/2014,5,@,Louisiana Tech,L
+702,Texas-San Antonio,10/04/2014,5,,New Mexico,L
+703,Toledo,10/04/2014,6,@,Western Michigan,W
+704,Tulsa,10/04/2014,5,@,Colorado State,L
+705,UCLA,10/04/2014,5,,Utah,L
+706,Utah,10/04/2014,5,@,UCLA,W
+707,Vanderbilt,10/04/2014,6,@,Georgia,L
+708,Virginia,10/04/2014,6,,Pittsburgh,W
+709,Virginia Tech,10/04/2014,6,@,North Carolina,W
+710,Wake Forest,10/04/2014,6,@,Florida State,L
+711,Washington State,10/04/2014,6,,California,L
+712,West Virginia,10/04/2014,5,,Kansas,W
+713,Western Kentucky,10/04/2014,5,,Alabama-Birmingham,L
+714,Western Michigan,10/04/2014,5,,Toledo,L
+715,Wisconsin,10/04/2014,5,@,Northwestern,L
+716,Brigham Young,10/03/2014,5,,Utah State,L
+717,Fresno State,10/03/2014,6,,San Diego State,W
+718,Louisville,10/03/2014,6,@,Syracuse,W
+719,San Diego State,10/03/2014,5,@,Fresno State,L
+720,Syracuse,10/03/2014,5,,Louisville,L
+721,Utah State,10/03/2014,5,@,Brigham Young,W
+722,Arizona,10/02/2014,5,@,Oregon,W
+723,Central Florida,10/02/2014,4,@,Houston,W
+724,Florida Atlantic,10/02/2014,6,@,Florida International,L
+725,Florida International,10/02/2014,6,,Florida Atlantic,W
+726,Houston,10/02/2014,5,,Central Florida,L
+727,Oregon,10/02/2014,5,,Arizona,L
+728,Air Force,09/27/2014,4,,Boise State,W
+729,Akron,09/27/2014,4,@,Pittsburgh,W
+730,Alabama-Birmingham,09/27/2014,4,,Florida International,L
+731,Arkansas,09/27/2014,5,N,Texas A&M,L
+732,Army,09/27/2014,4,@,Yale,L
+733,Auburn,09/27/2014,4,,Louisiana Tech,W
+734,Baylor,09/27/2014,4,@,Iowa State,W
+735,Boise State,09/27/2014,5,@,Air Force,L
+736,Boston College,09/27/2014,5,,Colorado State,L
+737,Bowling Green State,09/27/2014,5,@,Massachusetts,W
+738,Buffalo,09/27/2014,5,,Miami (OH),W
+739,California,09/27/2014,4,,Colorado,W
+740,Central Michigan,09/27/2014,5,@,Toledo,L
+741,Cincinnati,09/27/2014,3,@,Ohio State,L
+742,Clemson,09/27/2014,4,,North Carolina,W
+743,Colorado,09/27/2014,5,@,California,L
+744,Colorado State,09/27/2014,4,@,Boston College,W
+745,Connecticut,09/27/2014,5,,Temple,L
+746,Duke,09/27/2014,5,@,Miami (FL),L
+747,Florida Atlantic,09/27/2014,5,,Texas-San Antonio,W
+748,Florida International,09/27/2014,5,@,Alabama-Birmingham,W
+749,Florida State,09/27/2014,4,@,North Carolina State,W
+750,Georgia,09/27/2014,4,,Tennessee,W
+751,Idaho,09/27/2014,5,,South Alabama,L
+752,Illinois,09/27/2014,5,@,Nebraska,L
+753,Indiana,09/27/2014,4,,Maryland,L
+754,Iowa,09/27/2014,5,@,Purdue,W
+755,Iowa State,09/27/2014,4,,Baylor,L
+756,Kansas,09/27/2014,4,,Texas,L
+757,Kansas State,09/27/2014,4,,Texas-El Paso,W
+758,Kent State,09/27/2014,4,@,Virginia,L
+759,Kentucky,09/27/2014,4,,Vanderbilt,W
+760,Louisiana State,09/27/2014,5,,New Mexico State,W
+761,Louisiana Tech,09/27/2014,5,@,Auburn,L
+762,Louisiana-Monroe,09/27/2014,4,,Troy,W
+763,Louisville,09/27/2014,5,,Wake Forest,W
+764,Maryland,09/27/2014,5,@,Indiana,W
+765,Massachusetts,09/27/2014,5,,Bowling Green State,L
+766,Memphis,09/27/2014,4,@,Mississippi,L
+767,Miami (FL),09/27/2014,5,,Duke,W
+768,Miami (OH),09/27/2014,5,@,Buffalo,L
+769,Michigan,09/27/2014,5,,Minnesota,L
+770,Michigan State,09/27/2014,4,,Wyoming,W
+771,Minnesota,09/27/2014,5,@,Michigan,W
+772,Mississippi,09/27/2014,4,,Memphis,W
+773,Missouri,09/27/2014,5,@,South Carolina,W
+774,Navy,09/27/2014,5,,Western Kentucky,L
+775,Nebraska,09/27/2014,5,,Illinois,W
+776,Nevada,09/27/2014,4,@,San Jose State,W
+777,Nevada-Las Vegas,09/27/2014,5,@,San Diego State,L
+778,New Mexico State,09/27/2014,5,@,Louisiana State,L
+779,North Carolina,09/27/2014,4,@,Clemson,L
+780,North Carolina State,09/27/2014,5,,Florida State,L
+781,Northwestern,09/27/2014,4,@,Penn State,W
+782,Notre Dame,09/27/2014,4,N,Syracuse,W
+783,Ohio,09/27/2014,5,,Eastern Illinois,W
+784,Ohio State,09/27/2014,4,,Cincinnati,W
+785,Oregon State,09/27/2014,4,@,Southern California,L
+786,Penn State,09/27/2014,5,,Northwestern,L
+787,Pittsburgh,09/27/2014,5,,Akron,L
+788,Purdue,09/27/2014,5,,Iowa,L
+789,Rice,09/27/2014,4,@,Southern Mississippi,W
+790,Rutgers,09/27/2014,5,,Tulane,W
+791,San Diego State,09/27/2014,4,,Nevada-Las Vegas,W
+792,San Jose State,09/27/2014,4,,Nevada,L
+793,South Alabama,09/27/2014,4,@,Idaho,W
+794,South Carolina,09/27/2014,5,,Missouri,L
+795,South Florida,09/27/2014,5,@,Wisconsin,L
+796,Southern California,09/27/2014,4,,Oregon State,W
+797,Southern Methodist,09/27/2014,4,,Texas Christian,L
+798,Southern Mississippi,09/27/2014,5,,Rice,L
+799,Stanford,09/27/2014,4,@,Washington,W
+800,Syracuse,09/27/2014,4,N,Notre Dame,L
+801,Temple,09/27/2014,4,@,Connecticut,W
+802,Tennessee,09/27/2014,4,@,Georgia,L
+803,Texas,09/27/2014,4,@,Kansas,W
+804,Texas A&M,09/27/2014,5,N,Arkansas,W
+805,Texas Christian,09/27/2014,3,@,Southern Methodist,W
+806,Texas State,09/27/2014,4,@,Tulsa,W
+807,Texas-El Paso,09/27/2014,4,@,Kansas State,L
+808,Texas-San Antonio,09/27/2014,4,@,Florida Atlantic,L
+809,Toledo,09/27/2014,5,,Central Michigan,W
+810,Troy,09/27/2014,5,@,Louisiana-Monroe,L
+811,Tulane,09/27/2014,5,@,Rutgers,L
+812,Tulsa,09/27/2014,4,,Texas State,L
+813,Utah,09/27/2014,4,,Washington State,L
+814,Vanderbilt,09/27/2014,5,@,Kentucky,L
+815,Virginia,09/27/2014,5,,Kent State,W
+816,Virginia Tech,09/27/2014,5,,Western Michigan,W
+817,Wake Forest,09/27/2014,5,@,Louisville,L
+818,Washington,09/27/2014,5,,Stanford,L
+819,Washington State,09/27/2014,5,@,Utah,W
+820,Western Kentucky,09/27/2014,4,@,Navy,W
+821,Western Michigan,09/27/2014,4,@,Virginia Tech,L
+822,Wisconsin,09/27/2014,4,,South Florida,W
+823,Wyoming,09/27/2014,5,@,Michigan State,L
+824,Fresno State,09/26/2014,5,@,New Mexico,W
+825,Middle Tennessee State,09/26/2014,5,@,Old Dominion,W
+826,New Mexico,09/26/2014,4,,Fresno State,L
+827,Old Dominion,09/26/2014,5,,Middle Tennessee State,L
+828,Arizona State,09/25/2014,4,,UCLA,L
+829,Oklahoma State,09/25/2014,4,,Texas Tech,W
+830,Texas Tech,09/25/2014,4,@,Oklahoma State,L
+831,UCLA,09/25/2014,4,@,Arizona State,W
+832,Akron,09/20/2014,3,,Marshall,L
+833,Alabama,09/20/2014,4,,Florida,W
+834,Appalachian State,09/20/2014,3,@,Southern Mississippi,L
+835,Arizona,09/20/2014,4,,California,W
+836,Arkansas,09/20/2014,4,,Northern Illinois,W
+837,Arkansas State,09/20/2014,4,,Utah State,W
+838,Army,09/20/2014,3,@,Wake Forest,L
+839,Ball State,09/20/2014,4,@,Toledo,L
+840,Boise State,09/20/2014,4,,Louisiana-Lafayette,W
+841,Boston College,09/20/2014,4,,Maine,W
+842,Bowling Green State,09/20/2014,4,@,Wisconsin,L
+843,Brigham Young,09/20/2014,4,,Virginia,W
+844,Buffalo,09/20/2014,4,,Norfolk State,W
+845,California,09/20/2014,3,@,Arizona,L
+846,Central Florida,09/20/2014,3,,Bethune-Cookman,W
+847,Central Michigan,09/20/2014,4,@,Kansas,L
+848,Cincinnati,09/20/2014,2,N,Miami (OH),W
+849,Clemson,09/20/2014,3,@,Florida State,L
+850,Colorado,09/20/2014,4,,Hawaii,W
+851,Duke,09/20/2014,4,,Tulane,W
+852,East Carolina,09/20/2014,4,,North Carolina,W
+853,Eastern Michigan,09/20/2014,4,@,Michigan State,L
+854,Florida,09/20/2014,4,@,Alabama,L
+855,Florida Atlantic,09/20/2014,4,@,Wyoming,L
+856,Florida International,09/20/2014,4,,Louisville,L
+857,Florida State,09/20/2014,3,,Clemson,W
+858,Fresno State,09/20/2014,4,,Southern Utah,W
+859,Georgia,09/20/2014,3,,Troy,W
+860,Georgia Southern,09/20/2014,4,@,South Alabama,W
+861,Georgia State,09/20/2014,4,@,Washington,L
+862,Georgia Tech,09/20/2014,4,@,Virginia Tech,W
+863,Hawaii,09/20/2014,4,@,Colorado,L
+864,Houston,09/20/2014,4,,Nevada-Las Vegas,W
+865,Idaho,09/20/2014,4,@,Ohio,L
+866,Illinois,09/20/2014,4,,Texas State,W
+867,Indiana,09/20/2014,3,@,Missouri,W
+868,Iowa,09/20/2014,4,@,Pittsburgh,W
+869,Kansas,09/20/2014,3,,Central Michigan,W
+870,Louisiana State,09/20/2014,4,,Mississippi State,L
+871,Louisiana Tech,09/20/2014,4,,Northwestern State,L
+872,Louisiana-Lafayette,09/20/2014,4,@,Boise State,L
+873,Louisville,09/20/2014,4,@,Florida International,W
+874,Marshall,09/20/2014,4,@,Akron,W
+875,Maryland,09/20/2014,4,@,Syracuse,W
+876,Massachusetts,09/20/2014,4,@,Penn State,L
+877,Memphis,09/20/2014,3,,Middle Tennessee State,W
+878,Miami (FL),09/20/2014,4,@,Nebraska,L
+879,Miami (OH),09/20/2014,4,N,Cincinnati,L
+880,Michigan,09/20/2014,4,,Utah,L
+881,Michigan State,09/20/2014,3,,Eastern Michigan,W
+882,Middle Tennessee State,09/20/2014,4,@,Memphis,L
+883,Minnesota,09/20/2014,4,,San Jose State,W
+884,Mississippi State,09/20/2014,4,@,Louisiana State,W
+885,Missouri,09/20/2014,4,,Indiana,L
+886,Navy,09/20/2014,4,,Rutgers,L
+887,Nebraska,09/20/2014,4,,Miami (FL),W
+888,Nevada-Las Vegas,09/20/2014,4,@,Houston,L
+889,New Mexico,09/20/2014,3,@,New Mexico State,W
+890,New Mexico State,09/20/2014,4,,New Mexico,L
+891,North Carolina,09/20/2014,3,@,East Carolina,L
+892,North Carolina State,09/20/2014,4,,Presbyterian,W
+893,North Texas,09/20/2014,4,,Nicholls State,W
+894,Northern Illinois,09/20/2014,4,@,Arkansas,L
+895,Northwestern,09/20/2014,3,,Western Illinois,W
+896,Ohio,09/20/2014,4,,Idaho,W
+897,Oklahoma,09/20/2014,4,@,West Virginia,W
+898,Old Dominion,09/20/2014,4,@,Rice,W
+899,Oregon,09/20/2014,4,@,Washington State,W
+900,Oregon State,09/20/2014,3,,San Diego State,W
+901,Penn State,09/20/2014,4,,Massachusetts,W
+902,Pittsburgh,09/20/2014,4,,Iowa,L
+903,Purdue,09/20/2014,4,,Southern Illinois,W
+904,Rice,09/20/2014,3,,Old Dominion,L
+905,Rutgers,09/20/2014,4,@,Navy,W
+906,San Diego State,09/20/2014,3,@,Oregon State,L
+907,San Jose State,09/20/2014,3,@,Minnesota,L
+908,South Alabama,09/20/2014,3,,Georgia Southern,L
+909,South Carolina,09/20/2014,4,@,Vanderbilt,W
+910,Southern Methodist,09/20/2014,3,,Texas A&M,L
+911,Southern Mississippi,09/20/2014,4,,Appalachian State,W
+912,Syracuse,09/20/2014,3,,Maryland,L
+913,Temple,09/20/2014,3,,Delaware State,W
+914,Texas A&M,09/20/2014,4,@,Southern Methodist,W
+915,Texas State,09/20/2014,3,@,Illinois,L
+916,Toledo,09/20/2014,4,,Ball State,W
+917,Troy,09/20/2014,4,@,Georgia,L
+918,Tulane,09/20/2014,4,@,Duke,L
+919,Utah,09/20/2014,3,@,Michigan,W
+920,Utah State,09/20/2014,4,@,Arkansas State,L
+921,Vanderbilt,09/20/2014,4,,South Carolina,L
+922,Virginia,09/20/2014,4,@,Brigham Young,L
+923,Virginia Tech,09/20/2014,4,,Georgia Tech,L
+924,Wake Forest,09/20/2014,4,,Army,W
+925,Washington,09/20/2014,4,,Georgia State,W
+926,Washington State,09/20/2014,4,,Oregon,L
+927,West Virginia,09/20/2014,4,,Oklahoma,L
+928,Western Michigan,09/20/2014,3,,Murray State,W
+929,Wisconsin,09/20/2014,3,,Bowling Green State,W
+930,Wyoming,09/20/2014,4,,Florida Atlantic,W
+931,Connecticut,09/19/2014,4,@,South Florida,L
+932,South Florida,09/19/2014,4,,Connecticut,W
+933,Auburn,09/18/2014,3,@,Kansas State,W
+934,Kansas State,09/18/2014,3,,Auburn,L
+935,Air Force,09/13/2014,3,@,Georgia State,W
+936,Alabama,09/13/2014,3,,Southern Mississippi,W
+937,Alabama-Birmingham,09/13/2014,3,,Alabama A&M,W
+938,Arizona,09/13/2014,3,,Nevada,W
+939,Arizona State,09/13/2014,3,@,Colorado,W
+940,Arkansas,09/13/2014,3,@,Texas Tech,W
+941,Arkansas State,09/13/2014,3,@,Miami (FL),L
+942,Army,09/13/2014,2,@,Stanford,L
+943,Ball State,09/13/2014,3,,Indiana State,L
+944,Boise State,09/13/2014,3,@,Connecticut,W
+945,Boston College,09/13/2014,3,,Southern California,W
+946,Bowling Green State,09/13/2014,3,,Indiana,W
+947,Central Florida,09/13/2014,2,@,Missouri,L
+948,Central Michigan,09/13/2014,3,,Syracuse,L
+949,Colorado,09/13/2014,3,,Arizona State,L
+950,Colorado State,09/13/2014,3,,California-Davis,W
+951,Connecticut,09/13/2014,3,,Boise State,L
+952,Duke,09/13/2014,3,,Kansas,W
+953,East Carolina,09/13/2014,3,@,Virginia Tech,W
+954,Eastern Michigan,09/13/2014,3,@,Old Dominion,L
+955,Florida,09/13/2014,3,,Kentucky,W
+956,Florida Atlantic,09/13/2014,3,,Tulsa,W
+957,Florida International,09/13/2014,3,,Pittsburgh,L
+958,Fresno State,09/13/2014,3,,Nebraska,L
+959,Georgia,09/13/2014,2,@,South Carolina,L
+960,Georgia Southern,09/13/2014,3,@,Georgia Tech,L
+961,Georgia State,09/13/2014,3,,Air Force,L
+962,Georgia Tech,09/13/2014,3,,Georgia Southern,W
+963,Hawaii,09/13/2014,3,,Northern Iowa,W
+964,Idaho,09/13/2014,3,,Western Michigan,L
+965,Illinois,09/13/2014,3,@,Washington,L
+966,Indiana,09/13/2014,2,@,Bowling Green State,L
+967,Iowa,09/13/2014,3,,Iowa State,L
+968,Iowa State,09/13/2014,3,@,Iowa,W
+969,Kansas,09/13/2014,2,@,Duke,L
+970,Kent State,09/13/2014,3,@,Ohio State,L
+971,Kentucky,09/13/2014,3,@,Florida,L
+972,Louisiana State,09/13/2014,3,,Louisiana-Monroe,W
+973,Louisiana-Lafayette,09/13/2014,3,@,Mississippi,L
+974,Louisiana-Monroe,09/13/2014,3,@,Louisiana State,L
+975,Louisville,09/13/2014,3,@,Virginia,L
+976,Marshall,09/13/2014,3,,Ohio,W
+977,Maryland,09/13/2014,3,,West Virginia,L
+978,Massachusetts,09/13/2014,3,@,Vanderbilt,L
+979,Miami (FL),09/13/2014,3,,Arkansas State,W
+980,Miami (OH),09/13/2014,3,@,Michigan,L
+981,Michigan,09/13/2014,3,,Miami (OH),W
+982,Middle Tennessee State,09/13/2014,3,,Western Kentucky,W
+983,Minnesota,09/13/2014,3,@,Texas Christian,L
+984,Mississippi,09/13/2014,3,,Louisiana-Lafayette,W
+985,Mississippi State,09/13/2014,3,@,South Alabama,W
+986,Missouri,09/13/2014,3,,Central Florida,W
+987,Navy,09/13/2014,3,@,Texas State,W
+988,Nebraska,09/13/2014,3,@,Fresno State,W
+989,Nevada,09/13/2014,3,@,Arizona,L
+990,Nevada-Las Vegas,09/13/2014,3,,Northern Illinois,L
+991,New Mexico State,09/13/2014,3,@,Texas-El Paso,L
+992,North Carolina State,09/13/2014,3,@,South Florida,W
+993,Northern Illinois,09/13/2014,3,@,Nevada-Las Vegas,W
+994,Notre Dame,09/13/2014,3,N,Purdue,W
+995,Ohio,09/13/2014,3,@,Marshall,L
+996,Ohio State,09/13/2014,3,,Kent State,W
+997,Oklahoma,09/13/2014,3,,Tennessee,W
+998,Oklahoma State,09/13/2014,3,,Texas-San Antonio,W
+999,Old Dominion,09/13/2014,3,,Eastern Michigan,W
+1000,Oregon,09/13/2014,3,,Wyoming,W
+1001,Penn State,09/13/2014,3,@,Rutgers,W
+1002,Pittsburgh,09/13/2014,3,@,Florida International,W
+1003,Purdue,09/13/2014,3,N,Notre Dame,L
+1004,Rice,09/13/2014,2,@,Texas A&M,L
+1005,Rutgers,09/13/2014,3,,Penn State,L
+1006,South Alabama,09/13/2014,2,,Mississippi State,L
+1007,South Carolina,09/13/2014,3,,Georgia,W
+1008,South Florida,09/13/2014,3,,North Carolina State,L
+1009,Southern California,09/13/2014,3,@,Boston College,L
+1010,Southern Mississippi,09/13/2014,3,@,Alabama,L
+1011,Stanford,09/13/2014,3,,Army,W
+1012,Syracuse,09/13/2014,2,@,Central Michigan,W
+1013,Tennessee,09/13/2014,3,@,Oklahoma,L
+1014,Texas,09/13/2014,3,N,UCLA,L
+1015,Texas A&M,09/13/2014,3,,Rice,W
+1016,Texas Christian,09/13/2014,2,,Minnesota,W
+1017,Texas State,09/13/2014,2,,Navy,L
+1018,Texas Tech,09/13/2014,3,,Arkansas,L
+1019,Texas-El Paso,09/13/2014,3,,New Mexico State,W
+1020,Texas-San Antonio,09/13/2014,3,@,Oklahoma State,L
+1021,Troy,09/13/2014,3,,Abilene Christian,L
+1022,Tulane,09/13/2014,3,,Southeastern Louisiana,W
+1023,Tulsa,09/13/2014,3,@,Florida Atlantic,L
+1024,UCLA,09/13/2014,3,N,Texas,W
+1025,Utah State,09/13/2014,3,,Wake Forest,W
+1026,Vanderbilt,09/13/2014,3,,Massachusetts,W
+1027,Virginia,09/13/2014,3,,Louisville,W
+1028,Virginia Tech,09/13/2014,3,,East Carolina,L
+1029,Wake Forest,09/13/2014,3,@,Utah State,L
+1030,Washington,09/13/2014,3,,Illinois,W
+1031,Washington State,09/13/2014,3,,Portland State,W
+1032,West Virginia,09/13/2014,3,@,Maryland,W
+1033,Western Kentucky,09/13/2014,3,@,Middle Tennessee State,L
+1034,Western Michigan,09/13/2014,2,@,Idaho,W
+1035,Wyoming,09/13/2014,3,@,Oregon,L
+1036,Baylor,09/12/2014,3,@,Buffalo,W
+1037,Buffalo,09/12/2014,3,,Baylor,L
+1038,Cincinnati,09/12/2014,1,,Toledo,W
+1039,Toledo,09/12/2014,3,@,Cincinnati,L
+1040,Brigham Young,09/11/2014,3,,Houston,W
+1041,Houston,09/11/2014,3,@,Brigham Young,L
+1042,Louisiana Tech,09/11/2014,3,@,North Texas,W
+1043,North Texas,09/11/2014,3,,Louisiana Tech,L
+1044,Air Force,09/06/2014,2,@,Wyoming,L
+1045,Akron,09/06/2014,2,@,Penn State,L
+1046,Alabama,09/06/2014,2,,Florida Atlantic,W
+1047,Alabama-Birmingham,09/06/2014,2,@,Mississippi State,L
+1048,Arizona State,09/06/2014,2,@,New Mexico,W
+1049,Arkansas,09/06/2014,2,,Nicholls State,W
+1050,Arkansas State,09/06/2014,2,@,Tennessee,L
+1051,Army,09/06/2014,1,,Buffalo,W
+1052,Auburn,09/06/2014,2,,San Jose State,W
+1053,Ball State,09/06/2014,2,@,Iowa,L
+1054,Baylor,09/06/2014,2,,Northwestern State,W
+1055,Boise State,09/06/2014,2,,Colorado State,W
+1056,Bowling Green State,09/06/2014,2,,Virginia Military Institute,W
+1057,Brigham Young,09/06/2014,2,@,Texas,W
+1058,Buffalo,09/06/2014,2,@,Army,L
+1059,California,09/06/2014,2,,Sacramento State,W
+1060,Central Michigan,09/06/2014,2,@,Purdue,W
+1061,Clemson,09/06/2014,2,,South Carolina State,W
+1062,Colorado,09/06/2014,2,N,Massachusetts,W
+1063,Colorado State,09/06/2014,2,@,Boise State,L
+1064,Connecticut,09/06/2014,2,,Stony Brook,W
+1065,Duke,09/06/2014,2,@,Troy,W
+1066,East Carolina,09/06/2014,2,@,South Carolina,L
+1067,Eastern Michigan,09/06/2014,2,@,Florida,L
+1068,Florida,09/06/2014,2,,Eastern Michigan,W
+1069,Florida Atlantic,09/06/2014,2,@,Alabama,L
+1070,Florida International,09/06/2014,2,,Wagner,W
+1071,Florida State,09/06/2014,2,,Citadel,W
+1072,Fresno State,09/06/2014,2,@,Utah,L
+1073,Georgia State,09/06/2014,2,,New Mexico State,L
+1074,Georgia Tech,09/06/2014,2,@,Tulane,W
+1075,Hawaii,09/06/2014,2,,Oregon State,L
+1076,Houston,09/06/2014,2,,Grambling State,W
+1077,Idaho,09/06/2014,2,@,Louisiana-Monroe,L
+1078,Illinois,09/06/2014,2,,Western Kentucky,W
+1079,Iowa,09/06/2014,2,,Ball State,W
+1080,Iowa State,09/06/2014,2,,Kansas State,L
+1081,Kansas,09/06/2014,1,,Southeast Missouri State,W
+1082,Kansas State,09/06/2014,2,@,Iowa State,W
+1083,Kent State,09/06/2014,2,,South Alabama,L
+1084,Kentucky,09/06/2014,2,,Ohio,W
+1085,Louisiana State,09/06/2014,2,,Sam Houston State,W
+1086,Louisiana Tech,09/06/2014,2,@,Louisiana-Lafayette,W
+1087,Louisiana-Lafayette,09/06/2014,2,,Louisiana Tech,L
+1088,Louisiana-Monroe,09/06/2014,2,,Idaho,W
+1089,Louisville,09/06/2014,2,,Murray State,W
+1090,Marshall,09/06/2014,2,,Rhode Island,W
+1091,Maryland,09/06/2014,2,@,South Florida,W
+1092,Massachusetts,09/06/2014,2,N,Colorado,L
+1093,Memphis,09/06/2014,2,@,UCLA,L
+1094,Miami (FL),09/06/2014,2,,Florida A&M,W
+1095,Miami (OH),09/06/2014,2,,Eastern Kentucky,L
+1096,Michigan,09/06/2014,2,@,Notre Dame,L
+1097,Michigan State,09/06/2014,2,@,Oregon,L
+1098,Middle Tennessee State,09/06/2014,2,@,Minnesota,L
+1099,Minnesota,09/06/2014,2,,Middle Tennessee State,W
+1100,Mississippi,09/06/2014,2,N,Vanderbilt,W
+1101,Mississippi State,09/06/2014,2,,Alabama-Birmingham,W
+1102,Missouri,09/06/2014,2,@,Toledo,W
+1103,Navy,09/06/2014,2,@,Temple,W
+1104,Nebraska,09/06/2014,2,,McNeese State,W
+1105,Nevada-Las Vegas,09/06/2014,2,,Northern Colorado,W
+1106,New Mexico,09/06/2014,2,,Arizona State,L
+1107,New Mexico State,09/06/2014,2,@,Georgia State,W
+1108,North Carolina,09/06/2014,2,,San Diego State,W
+1109,North Carolina State,09/06/2014,2,,Old Dominion,W
+1110,North Texas,09/06/2014,2,,Southern Methodist,W
+1111,Northern Illinois,09/06/2014,2,@,Northwestern,W
+1112,Northwestern,09/06/2014,2,,Northern Illinois,L
+1113,Notre Dame,09/06/2014,2,,Michigan,W
+1114,Ohio,09/06/2014,2,@,Kentucky,L
+1115,Ohio State,09/06/2014,2,,Virginia Tech,L
+1116,Oklahoma,09/06/2014,2,@,Tulsa,W
+1117,Oklahoma State,09/06/2014,2,,Missouri State,W
+1118,Old Dominion,09/06/2014,2,@,North Carolina State,L
+1119,Oregon,09/06/2014,2,,Michigan State,W
+1120,Oregon State,09/06/2014,2,@,Hawaii,W
+1121,Penn State,09/06/2014,2,,Akron,W
+1122,Purdue,09/06/2014,2,,Central Michigan,L
+1123,Rutgers,09/06/2014,2,,Howard,W
+1124,San Diego State,09/06/2014,2,@,North Carolina,L
+1125,San Jose State,09/06/2014,2,@,Auburn,L
+1126,South Alabama,09/06/2014,1,@,Kent State,W
+1127,South Carolina,09/06/2014,2,,East Carolina,W
+1128,South Florida,09/06/2014,2,,Maryland,L
+1129,Southern California,09/06/2014,2,@,Stanford,W
+1130,Southern Methodist,09/06/2014,2,@,North Texas,L
+1131,Southern Mississippi,09/06/2014,2,,Alcorn State,W
+1132,Stanford,09/06/2014,2,,Southern California,L
+1133,Temple,09/06/2014,2,,Navy,L
+1134,Tennessee,09/06/2014,2,,Arkansas State,W
+1135,Texas,09/06/2014,2,,Brigham Young,L
+1136,Texas A&M,09/06/2014,2,,Lamar,W
+1137,Texas Tech,09/06/2014,2,@,Texas-El Paso,W
+1138,Texas-El Paso,09/06/2014,2,,Texas Tech,L
+1139,Toledo,09/06/2014,2,,Missouri,L
+1140,Troy,09/06/2014,2,,Duke,L
+1141,Tulane,09/06/2014,2,,Georgia Tech,L
+1142,Tulsa,09/06/2014,2,,Oklahoma,L
+1143,UCLA,09/06/2014,2,,Memphis,W
+1144,Utah,09/06/2014,2,,Fresno State,W
+1145,Utah State,09/06/2014,2,,Idaho State,W
+1146,Vanderbilt,09/06/2014,2,N,Mississippi,L
+1147,Virginia,09/06/2014,2,,Richmond,W
+1148,Virginia Tech,09/06/2014,2,@,Ohio State,W
+1149,Wake Forest,09/06/2014,2,,Gardner-Webb,W
+1150,Washington,09/06/2014,2,,Eastern Washington,W
+1151,West Virginia,09/06/2014,2,,Towson,W
+1152,Western Kentucky,09/06/2014,2,@,Illinois,L
+1153,Wisconsin,09/06/2014,2,,Western Illinois,W
+1154,Wyoming,09/06/2014,2,,Air Force,W
+1155,Boston College,09/05/2014,2,,Pittsburgh,L
+1156,Nevada,09/05/2014,2,,Washington State,W
+1157,Pittsburgh,09/05/2014,2,@,Boston College,W
+1158,Washington State,09/05/2014,2,@,Nevada,L
+1159,Arizona,09/04/2014,2,@,Texas-San Antonio,W
+1160,Texas-San Antonio,09/04/2014,2,,Arizona,L
+1161,Louisville,09/01/2014,1,,Miami (FL),W
+1162,Miami (FL),09/01/2014,1,@,Louisville,L
+1163,Baylor,08/31/2014,1,,Southern Methodist,W
+1164,Southern Methodist,08/31/2014,1,@,Baylor,L
+1165,Tennessee,08/31/2014,1,,Utah State,W
+1166,Utah State,08/31/2014,1,@,Tennessee,L
+1167,Air Force,08/30/2014,1,,Nicholls State,W
+1168,Alabama,08/30/2014,1,N,West Virginia,W
+1169,Alabama-Birmingham,08/30/2014,1,,Troy,W
+1170,Appalachian State,08/30/2014,1,@,Michigan,L
+1171,Arkansas,08/30/2014,1,@,Auburn,L
+1172,Arkansas State,08/30/2014,1,,Montana State,W
+1173,Auburn,08/30/2014,1,,Arkansas,W
+1174,Ball State,08/30/2014,1,,Colgate,W
+1175,Boston College,08/30/2014,1,N,Massachusetts,W
+1176,Buffalo,08/30/2014,1,,Duquesne,W
+1177,California,08/30/2014,1,@,Northwestern,W
+1178,Central Florida,08/30/2014,1,N,Penn State,L
+1179,Clemson,08/30/2014,1,@,Georgia,L
+1180,Duke,08/30/2014,1,,Elon,W
+1181,East Carolina,08/30/2014,1,,North Carolina Central,W
+1182,Eastern Michigan,08/30/2014,1,,Morgan State,W
+1183,Florida Atlantic,08/30/2014,1,@,Nebraska,L
+1184,Florida International,08/30/2014,1,,Bethune-Cookman,L
+1185,Florida State,08/30/2014,1,N,Oklahoma State,W
+1186,Fresno State,08/30/2014,1,@,Southern California,L
+1187,Georgia,08/30/2014,1,,Clemson,W
+1188,Georgia Southern,08/30/2014,1,@,North Carolina State,L
+1189,Georgia Tech,08/30/2014,1,,Wofford,W
+1190,Hawaii,08/30/2014,1,,Washington,L
+1191,Illinois,08/30/2014,1,,Youngstown State,W
+1192,Indiana,08/30/2014,1,,Indiana State,W
+1193,Iowa,08/30/2014,1,,Northern Iowa,W
+1194,Iowa State,08/30/2014,1,,North Dakota State,L
+1195,Kansas State,08/30/2014,1,,Stephen F. Austin,W
+1196,Kent State,08/30/2014,1,,Ohio,L
+1197,Kentucky,08/30/2014,1,,Tennessee-Martin,W
+1198,Louisiana State,08/30/2014,1,N,Wisconsin,W
+1199,Louisiana Tech,08/30/2014,1,@,Oklahoma,L
+1200,Louisiana-Lafayette,08/30/2014,1,,Southern,W
+1201,Marshall,08/30/2014,1,@,Miami (OH),W
+1202,Maryland,08/30/2014,1,,James Madison,W
+1203,Massachusetts,08/30/2014,1,N,Boston College,L
+1204,Memphis,08/30/2014,1,,Austin Peay,W
+1205,Miami (OH),08/30/2014,1,,Marshall,L
+1206,Michigan,08/30/2014,1,,Appalachian State,W
+1207,Middle Tennessee State,08/30/2014,1,,Savannah State,W
+1208,Mississippi State,08/30/2014,1,,Southern Mississippi,W
+1209,Missouri,08/30/2014,1,,South Dakota State,W
+1210,Navy,08/30/2014,1,N,Ohio State,L
+1211,Nebraska,08/30/2014,1,,Florida Atlantic,W
+1212,Nevada,08/30/2014,1,,Southern Utah,W
+1213,New Mexico,08/30/2014,1,,Texas-El Paso,L
+1214,North Carolina,08/30/2014,1,,Liberty,W
+1215,North Carolina State,08/30/2014,1,,Georgia Southern,W
+1216,North Texas,08/30/2014,1,@,Texas,L
+1217,Northwestern,08/30/2014,1,,California,L
+1218,Notre Dame,08/30/2014,1,,Rice,W
+1219,Ohio,08/30/2014,1,@,Kent State,W
+1220,Ohio State,08/30/2014,1,N,Navy,W
+1221,Oklahoma,08/30/2014,1,,Louisiana Tech,W
+1222,Oklahoma State,08/30/2014,1,N,Florida State,L
+1223,Oregon,08/30/2014,1,,South Dakota,W
+1224,Oregon State,08/30/2014,1,,Portland State,W
+1225,Penn State,08/30/2014,1,N,Central Florida,W
+1226,Pittsburgh,08/30/2014,1,,Delaware,W
+1227,Purdue,08/30/2014,1,,Western Michigan,W
+1228,Rice,08/30/2014,1,@,Notre Dame,L
+1229,San Diego State,08/30/2014,1,,Northern Arizona,W
+1230,South Florida,08/30/2014,1,,Western Carolina,W
+1231,Southern California,08/30/2014,1,,Fresno State,W
+1232,Southern Mississippi,08/30/2014,1,@,Mississippi State,L
+1233,Stanford,08/30/2014,1,,California-Davis,W
+1234,Texas,08/30/2014,1,,North Texas,W
+1235,Texas Christian,08/30/2014,1,,Samford,W
+1236,Texas State,08/30/2014,1,,Arkansas-Pine Bluff,W
+1237,Texas Tech,08/30/2014,1,,Central Arkansas,W
+1238,Texas-El Paso,08/30/2014,1,@,New Mexico,W
+1239,Toledo,08/30/2014,1,,New Hampshire,W
+1240,Troy,08/30/2014,1,@,Alabama-Birmingham,L
+1241,UCLA,08/30/2014,1,@,Virginia,W
+1242,Virginia,08/30/2014,1,,UCLA,L
+1243,Virginia Tech,08/30/2014,1,,William & Mary,W
+1244,Washington,08/30/2014,1,@,Hawaii,W
+1245,West Virginia,08/30/2014,1,N,Alabama,L
+1246,Western Michigan,08/30/2014,1,@,Purdue,L
+1247,Wisconsin,08/30/2014,1,N,Louisiana State,L
+1248,Wyoming,08/30/2014,1,,Montana,W
+1249,Arizona,08/29/2014,1,,Nevada-Las Vegas,W
+1250,Bowling Green State,08/29/2014,1,@,Western Kentucky,L
+1251,Brigham Young,08/29/2014,1,@,Connecticut,W
+1252,Colorado,08/29/2014,1,N,Colorado State,L
+1253,Colorado State,08/29/2014,1,N,Colorado,W
+1254,Connecticut,08/29/2014,1,,Brigham Young,L
+1255,Houston,08/29/2014,1,,Texas-San Antonio,L
+1256,Michigan State,08/29/2014,1,,Jacksonville State,W
+1257,Nevada-Las Vegas,08/29/2014,1,@,Arizona,L
+1258,Syracuse,08/29/2014,1,,Villanova,W
+1259,Texas-San Antonio,08/29/2014,1,@,Houston,W
+1260,Western Kentucky,08/29/2014,1,,Bowling Green State,W
+1261,Akron,08/28/2014,1,,Howard,W
+1262,Arizona State,08/28/2014,1,,Weber State,W
+1263,Boise State,08/28/2014,1,N,Mississippi,L
+1264,Central Michigan,08/28/2014,1,,Chattanooga,W
+1265,Louisiana-Monroe,08/28/2014,1,,Wake Forest,W
+1266,Minnesota,08/28/2014,1,,Eastern Illinois,W
+1267,Mississippi,08/28/2014,1,N,Boise State,W
+1268,New Mexico State,08/28/2014,1,,Cal Poly,W
+1269,Northern Illinois,08/28/2014,1,,Presbyterian,W
+1270,Rutgers,08/28/2014,1,N,Washington State,W
+1271,San Jose State,08/28/2014,1,,North Dakota,W
+1272,South Carolina,08/28/2014,1,,Texas A&M,L
+1273,Temple,08/28/2014,1,@,Vanderbilt,W
+1274,Texas A&M,08/28/2014,1,@,South Carolina,W
+1275,Tulane,08/28/2014,1,@,Tulsa,L
+1276,Tulsa,08/28/2014,1,,Tulane,W
+1277,Utah,08/28/2014,1,,Idaho State,W
+1278,Vanderbilt,08/28/2014,1,,Temple,L
+1279,Wake Forest,08/28/2014,1,@,Louisiana-Monroe,L
+1280,Washington State,08/28/2014,1,N,Rutgers,L
+1281,Georgia State,08/27/2014,1,,Abilene Christian,W
