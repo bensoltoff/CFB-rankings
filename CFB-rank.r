@@ -95,6 +95,6 @@ save.image(file="output//CFB-sim.RData")
 # collapse simulated rankings into one data frame
 ranks.flat <- rbind.fill(ranks) %>%
   tbl_df()
-
+ranks.flat
 
 
